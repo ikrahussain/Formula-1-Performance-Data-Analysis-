@@ -108,70 +108,84 @@ Visualisations:
 1. How many races were held in each decade?
 Objective: Count the total number of races grouped by decade.
 
+
 <img width="500" height="464" alt="image" src="https://github.com/user-attachments/assets/a25ed567-4c2c-4d61-b5c6-df816c51a7c7" />
 
 2. Identify F1 Powerhouses – Constructors with 100+ Wins
 Objective: Find constructors with more than 100 race wins.
+
 
 <img width="550" height="358" alt="image" src="https://github.com/user-attachments/assets/790c10b8-659d-4f1a-b837-d7dcc8cb451d" />
 
 3. Identify Packed F1 Seasons – Years with Over 20 Races
 Objective: Determine which seasons had the most races.
 
+
 <img width="362" height="432" alt="image" src="https://github.com/user-attachments/assets/9510670b-c5f9-41fc-be02-33ebe2995d14" />
 
 4. Identify Drivers with Over 200 Career Points
 Objective: List drivers who accumulated more than 200 points in their careers.
+
 
 <img width="228" height="612" alt="image" src="https://github.com/user-attachments/assets/199fd75f-4b56-429e-8131-322f139ec9a5" />
 
 5. Find Races Held at High-Altitude Circuits (Above 800 Meters)
 Objective: Identify races held on circuits with challenging altitudes
 
+
 <img width="452" height="720" alt="image" src="https://github.com/user-attachments/assets/1f74b1a2-8608-425e-9e72-59b8d6a2159d" />
 
 6. Categorize Driver Performance Tiers Based on Career Points
 Objective: Rank drivers by their career points.
+
 
 <img width="602" height="736" alt="image" src="https://github.com/user-attachments/assets/bdaf5a10-63e7-464c-88c8-a4307413e0eb" />
 
 7. Categorize Constructors by Region Based on Nationality
 Objective: Group constructors into European or Non-European regions.
 
+
 <img width="596" height="712" alt="image" src="https://github.com/user-attachments/assets/2088c5a2-3a3c-41f9-b9a9-c78295c0e0b5" />
 
 8. Identify Drivers Who Never Raced for Ferrari
 Objective: Find drivers who participated in races but never drove for a specific constructor.
+
 
 <img width="376" height="728" alt="image" src="https://github.com/user-attachments/assets/2bfc167c-47d5-4fb1-89bd-6b2f1be06a14" />
 
 9. List Races Held on Circuits in the UK
 Objective: Identify races hosted at UK circuits.
 
+
 <img width="386" height="206" alt="image" src="https://github.com/user-attachments/assets/6c70d819-9863-4afc-830c-f1af0c53a4b0" />
 
 10. Calculate Average Points Per Race for Top Drivers
 Objective: Determine which drivers perform best on average per race.
+
 
 <img width="808" height="722" alt="image" src="https://github.com/user-attachments/assets/be38f7fb-81bd-4746-8f92-8402b288bd43" />
 
 11. Find the Most Common Race Status
 Objective: Identify the top 5 most frequent race outcomes.
 
+
 <img width="358" height="270" alt="image" src="https://github.com/user-attachments/assets/46e05018-68cd-4285-819c-57e36e6eebdf" />
 
 12. Calculate Average Lap Times for Drivers Who Won at Least One Race
 Objective: Determine how winning drivers perform on average per lap.
+
 
 <img width="358" height="582" alt="image" src="https://github.com/user-attachments/assets/8ee37c97-ba28-442c-b8b9-b33313142c70" />
 
 13. Identify Constructors' First Win Year
 Objective: Find the first year each constructor won a race.
 
+
 <img width="460" height="572" alt="image" src="https://github.com/user-attachments/assets/3e8b17c3-b59b-49bb-9ac9-621f568c9ce7" />
 
 14. Identify Peak Performance Seasons
 Objective: Determine the seasons with the highest points scored by any constructor
+
 
 <img width="354" height="262" alt="image" src="https://github.com/user-attachments/assets/fe8c9f5e-1e19-4972-89f1-9c1bf55f95a3" />
 
@@ -187,7 +201,9 @@ Race Distribution Over Time
 
 The analysis of races by decade (Figure 1) showed that the number of Formula 1 races has increased considerably since the championship began. Early decades contained relatively few races, while recent decades recorded substantially more events due to the global expansion of the sport.
 
+
 <img width="500" height="464" alt="image" src="https://github.com/user-attachments/assets/a25ed567-4c2c-4d61-b5c6-df816c51a7c7" />
+
 Figure 1. Number of Formula 1 races held in each decade
 
 
