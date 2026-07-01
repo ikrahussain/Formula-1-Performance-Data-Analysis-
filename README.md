@@ -81,14 +81,14 @@ Performing validation checks in SQL and Excel to confirm the accuracy of summary
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Tools:</strong> Excel, Pivot Tables, Dynamic Array Formatting, Power Query, Conditional Formatting, VS Code, Git, GitHub</li>
+  <li><strong>Tools:</strong> Excel, Pivot Tables, SQL, Power Query, Conditional Formatting, VS Code, Git, GitHub</li>
 </ul>
 
 <p>
   <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Pivot_Table-150458?style=for-the-badge&logo=pivot_table&logoColor=white" alt="Pivot Table">
   <img src="https://img.shields.io/badge/Power_Query-013243?style=for-the-badge&logo=powerquery&logoColor=white" alt="Power Query">
-  <img src="https://img.shields.io/badge/Dynamic_Array_Formatting-11557C?style=for-the-badge&logo=dynamicarrayformatting&logoColor=white" alt="Dynamic Array Formatting">
+  <img src="https://img.shields.io/badge/SQL-11557C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Conditional_Formatting-4C72B0?style=for-the-badge&logo=conditionalformatting&logoColor=white" alt="Conditional Formatting">
 </p>
 
